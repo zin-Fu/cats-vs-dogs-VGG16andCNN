@@ -42,4 +42,5 @@ calc_MeanAndStd函数用于计算图像数据集的均值和标准差。
 #### val.py:
 对训练好的模型进行评估和可视化
 ### 运行方式
-python main.py
+首先您先在config.py去选择调整合适的参数，然后在main文件中选择使用的模型，默认使用的是CNN
+然后在终端运行 python main.py
