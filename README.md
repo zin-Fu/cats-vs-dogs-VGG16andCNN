@@ -1,4 +1,4 @@
-#cats-vs-dogs-VGG16andCNN
+# cats-vs-dogs-VGG16andCNN
 
 #### 这个项目是一个用于训练猫狗图像分类模型的代码库。它包括了构建不同卷积神经网络模型（VGG16和CNN）、加载数据集、训练模型和评估性能的功能
 
